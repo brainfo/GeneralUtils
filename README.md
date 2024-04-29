@@ -9,6 +9,10 @@ This encompasses general and simple things you will face:
   1. input the rawdir, with each sample a subfolder containing multiple lanes _1.fq.gz and _2.fq.gz
   2. automatically create and output the outdir where each sample a subfolder containing one _1.fq.gz and one _2.fq.gz
   
+  What you do:
+  1. clone this repo
+  2. inside the cloned local folder, run `python merge_fqs.py -n 1 -i ${rawdir} -o ${outdir}`
+  
   Example input structure:  
 ```
 ├── AZ_16wk_Adip_Lib
@@ -54,6 +58,3 @@ This encompasses general and simple things you will face:
 3 directories, 6 files
 ```
 
-  What you do:
-  1. clone this repo
-  2. inside the cloned local folder, run `python merge_fqs.py -n 1 -i ${rawdir} -o ${outdir}`
