@@ -4,7 +4,7 @@ general bioinformatic jobs
 This encompasses general and simple things you will face:
 - download fastqs from EBI
 - parallel jobs using python
-- merge fastqs from different lanes
+- merge fastqs from different lanes  
   What this util do:
   1. input the rawdir, with each sample a subfolder containing multiple lanes _1.fq.gz and _2.fq.gz
   2. automatically craete and output the outdir where each sample a subfolder containing one _1.fq.gz and one _2.fq.gz
