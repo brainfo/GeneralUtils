@@ -55,4 +55,3 @@ This encompasses general and simple things you will face:
   What you do:
   1. clone this repo
   2. inside the cloned local folder, run `python merge_fqs.py -n 1 -i ${rawdir} -o ${outdir}`
-- ... Maybe rename samples with matched name information
