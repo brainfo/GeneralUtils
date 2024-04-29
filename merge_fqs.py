@@ -1,7 +1,9 @@
 #!/home/hong/anaconda3/bin/python
 import os
 from os import walk
-from utils import parallel
+#from utils import parallel
+## for local usage, instead of install as a site-package
+import parallel
 import argparse
 
 parser = argparse.ArgumentParser()
