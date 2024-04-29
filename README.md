@@ -50,6 +50,8 @@ This encompasses general and simple things you will face:
 └── VZ_36wk_Adip_Lib
     ├── VZ_36wk_Adip_Lib_merge_1.fq.gz
     └── VZ_36wk_Adip_Lib_merge_2.fq.gz
+
+3 directories, 6 files
 ```
 
   What you do:
